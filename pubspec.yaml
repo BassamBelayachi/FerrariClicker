@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^2.2.0
   hexcolor: ^2.0.5
+  just_audio: ^0.9.18
 
 dev_dependencies:
   flutter_launcher_icons: "^0.9.2"
@@ -84,6 +85,16 @@ flutter:
     - images/monza.png
     - images/cursor.png
     - images/pointer.png
+    - sounds/dino.mp3
+    - sounds/458Italia.mp3
+    - sounds/testarossa.mp3
+    - sounds/360modena.mp3
+    - sounds/enzo.mp3
+    - sounds/812superfast.mp3
+    - sounds/F40.mp3
+    - sounds/laFerrari.mp3
+    - sounds/250GTO.mp3
+    - sounds/monza.mp3
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
