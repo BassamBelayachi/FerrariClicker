@@ -1,6 +1,6 @@
-# app
+# Ferrari Clicker
 
-A new Flutter project.
+Un clicker de ferrari.
 
 ## Getting Started
 
